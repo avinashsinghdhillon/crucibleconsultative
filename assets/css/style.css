@@ -26,7 +26,22 @@
     margin-top: 10px;
 }
 
+.carousel-indicators li {
+    background-color: red ;
+}
+
 .carousel-caption {
-    color: black;
-    background-color: #fffcfe ;
+    color: red;
+}
+
+#placeholder1 {
+    min-height: 400px;
+    margin: 5px;
+    background-color: cadetblue;
+}
+
+#placeholder2 {
+    min-height: 400px;
+    margin: 5px;
+    background-color: darkcyan;
 }
